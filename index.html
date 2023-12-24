@@ -24,6 +24,11 @@
     <link rel="stylesheet" href="assets/css/animated.css">
     <link rel="stylesheet" href="assets/css/owl.css">
 
+    <!-- Animation Css files and JS-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- Animation Css files End -->
+
 <!--
 
 TemplateMo 565 Onix Digital
@@ -135,7 +140,7 @@ https://templatemo.com/tm-565-onix-digital
   <!-- Slide section End -->
 
   <!-- Service section start -->
-  <div id="services" class="our-services section">
+  <div id="services" class="our-services section" data-aos="fade-up" data-aos-duration="1000">
     <div class="services-right-dec">
       <img src="assets/images/services-right-dec.png" alt="">
     </div>
@@ -206,7 +211,7 @@ https://templatemo.com/tm-565-onix-digital
   </div>
   <!-- Service setion end -->
 <!-- About section  -->
-  <div id="about" class="about-us section">
+  <div id="about" class="about-us section" data-aos="fade-right">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 align-self-center">
@@ -214,7 +219,7 @@ https://templatemo.com/tm-565-onix-digital
             <img src="assets/images/about-left-image.png" alt="Two Girls working together">
           </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6"  data-aos="fade-left">
           <div class="section-heading">
             <h2>Grow your website with <em>our Tools</em> &amp; <span>Project</span> Management</h2>
             <p>We categories our Success, be the part of our Journey become we happy users</p>
@@ -264,7 +269,7 @@ https://templatemo.com/tm-565-onix-digital
   <!-- About Section End  -->
 
   <!-- Our Permanent Clients Section End-->
-  <div id="services" class="our-services section">
+  <div id="services" class="our-services section" data-aos="fade-up" data-aos-duration="1500">
     <div class="services-right-dec">
       <img src="assets/images/services-right-dec.png" alt="">
     </div>
@@ -330,7 +335,7 @@ https://templatemo.com/tm-565-onix-digital
 <!-- Our Permanet Client SEction End -->
 
   <!-- Project Gallary -->
-  <div id="portfolio" class="our-portfolio section">
+  <div id="portfolio" class="our-portfolio section" data-aos="fade-up">
     <div class="portfolio-left-dec">
       <img src="assets/images/portfolio-left-dec.png" alt="">
     </div>
@@ -346,21 +351,21 @@ https://templatemo.com/tm-565-onix-digital
     </div>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 project-div">
+            <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 project-div" data-aos="zoom-in">
              <img
                 src="assets/images/project1.jpeg"
                 class="w-100 shadow-1-strong rounded mb-4  img-fluid project"
                 alt="Boat on Calm Water"/>  
             </div>
 
-             <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 ">
+             <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 " data-aos="zoom-in">
                 <img
                 src="assets//images/Project2.jpeg"
                 class="w-100 shadow-1-strong rounded mb-4 project"
                 alt="Wintry Mountain Landscape"/>
             </div>
 
-            <div class="col-lg-4 mb-4 mb-lg-0">
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="zoom-in">
               <img
                 src="assets//images/project 3.jpeg"
                 class="w-100 shadow-1-strong rounded mb-4 project"
@@ -368,7 +373,7 @@ https://templatemo.com/tm-565-onix-digital
               />
               </div>
 
-              <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+              <div class="col-lg-4 col-md-12 mb-4 mb-lg-0" data-aos="zoom-in">
               <img
                 src="assets//images/project 4.jpeg"
                 class="w-100 shadow-1-strong rounded mb-4 project"
@@ -376,7 +381,7 @@ https://templatemo.com/tm-565-onix-digital
               />
             </div>
 
-            <div class="col-lg-4 mb-4 mb-lg-0">
+            <div class="col-lg-4 mb-4 mb-lg-0" data-aos="zoom-in">
               <img
                 src="assets//images/project5.jpeg"
                 class="w-100 shadow-1-strong rounded mb-4 project"
@@ -385,7 +390,7 @@ https://templatemo.com/tm-565-onix-digital
             
               </div>
 
-              <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+              <div class="col-lg-4 col-md-12 mb-4 mb-lg-0" data-aos="zoom-in">
               <img
               src="assets//images/project 6.jpeg"
               class="w-100 shadow-1-strong rounded mb-4 project"
@@ -467,7 +472,7 @@ https://templatemo.com/tm-565-onix-digital
   </div> -->
 
 <!-- Client Reviews SEction Start -->
-<div id="services" class="our-services section">
+<div id="services" class="our-services section" data-aos="fade-up">
   <div class="services-right-dec">
     <img src="assets/images/services-right-dec.png" alt="">
   </div>
@@ -645,6 +650,9 @@ https://templatemo.com/tm-565-onix-digital
           $(".naccs ul").height(listItemHeight + "px");
         }
     });
+  </script>
+  <script>
+    AOS.init();
   </script>
 </body>
 </html>
