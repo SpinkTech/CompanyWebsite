@@ -2,10 +2,10 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="stylesheet" href="./assets/css/login.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login | SpinkTech Software Solution Pvt. Ltd. </title>
+  <link rel="stylesheet" href="./assets/css/login.css">
+  <title>Animated Login Page | Pedro Reves</title>
 </head>
 
 <body>
@@ -26,7 +26,6 @@
         <button>Sign Up</button>
       </form>
     </div>
-
     <div class="form-container sign-in">
       <form>
         <h1>Sign In</h1>
@@ -58,19 +57,21 @@
       </div>
     </div>
   </div>
-  <script>
-    const container = document.getElementById('container');
-    const registerBtn = document.getElementById('register');
-    const loginBtn = document.getElementById('login')
-    
-    registerBtn.addEventListener('click', () => {
-      container.classList.add('active');
-    });
-    
-    loginBtn.addEventListener('click', () => {
-      container.classList.remove('active');
-    });
-    </script>
+
+<script>
+const container = document.getElementById("container");
+const registerBtn = document.getElementById("register");
+const loginBtn = document.getElementById("login");
+
+registerBtn.addEventListener("click", () => {
+  container.classList.add("active");
+});
+
+loginBtn.addEventListener("click", () => {
+  container.classList.remove("active");
+});
+
+</script>
 </body>
 
 </html>
