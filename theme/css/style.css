@@ -188,11 +188,11 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary-dark {
-  background: #ff4528;
+  background: #06357e;
 }
 
 .bg-primary-darker {
-  background: #f42100;
+  background: #04214d;
 }
 
 .bg-dark {
