@@ -4,14 +4,14 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
-    title: "Free advertising for your online business",
+    title: "We work in the fields of UI/UX design and art direction.",
     metadata:
-      "Get noticed! Elevate your online presence with our tailored advertising solutions. Reach your target audience effectively and watch your business soar. Contact us today for a boost in visibility!",
+    "SpinkTech excels in UI/UX design and art direction, crafting visually stunning and intuitive interfaces that elevate user experiences and captivate audiences across various digital platforms.",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-02.png",
-    title: "9 simple ways to improve your design skills",
+    title: "You Must Protect Your Device in Digital Platform",
     metadata:"Enhance your design prowess effortlessly with these nine simple tips. From mastering color theory to refining typography, unlock your creative potential and elevate your design game today!",
   },
   {
@@ -24,14 +24,14 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-03.png",
-    title: "Free advertising for your online business",
+    title: "Digital IT Technology Conference Held in 2023",
     metadata:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-04.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Define World Best IT Technology Services",
     metadata:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
