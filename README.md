@@ -1,80 +1,89 @@
-# Orbitor Free Bootstrap Agency Template
+# Solid - Free Next.js Web Template and Starter Kit for SaaS
 
-![orbitor](https://demo.themefisher.com/thumbnails/orbitor.png)
+Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. It provides an extensive array of necessary sections, elements, and pages required to build a fully-equipped website for any SaaS, software, or startup site. Comes with all cutting edge React and Next.js features - **Built with Next.js 13, React 18 and TypeScript.**
 
-👉🏻[View Live Preview](https://demo.themefisher.com/orbitor/)
+This Next.js template's homepage comes with an awesome hero area, logos of associated brands, a features section, an about section, another features section with tabs, counters, and star ratings, integration options, clear call-to-actions, an FAQ section with accordions, a testimonials section, pricing tables, a contact page, a blog, and a distinctive footer.
 
-<!-- download -->
-## Download And installation
+**Solid Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
 
-Download this template from [Github](https://github.com/themefisher/orbitor/archive/main.zip)
+### [🔥 Get Solid Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
 
-<!-- installation -->
-### Basic Usages
+![Startup Pro](https://uideck.com/wp-content/uploads/edd/2023/07/solid-saas.png)
 
-After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+### [🚀 Solid PRO Live Demo](https://solid.nextjstemplates.com/)
 
-### Advanced Usage
+### [🚀 Solid FREE Live Demo](https://solid-free.nextjstemplates.com/)
 
-For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
 
-#### Install prerequisites (once for a machine)
+#### [Solid PRO](https://solid.nextjstemplates.com/)
+- SaaS Boilerplate + Starter Kit with Essential Integrations and Functionalities
+- Essential Integrations: Auth, DB, Stripe, MDX and More ...
+- Fully Functional, Ready to Use Sanity Blog Support
+- Premium Email Support
+- Functional External Pages
+- Free Lifetime Future Updates
+___
+#### [Solid FREE](https://solid-free.nextjstemplates.com/)
+- Only UI - Coded for Next.js
+- No Integrations
+- No Functional Blogging System
+- External Pages without Functions/Integrations
+- Community Support
+- Free Lifetime Future Updates
+___
 
-* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
-* **Gulp Installation:** Install gulp globally from your terminal
+### [📦 Download](https://nextjstemplates.com/templates/solid)
 
+### [🔥 Get Pro](https://nextjstemplates.com/templates/solid)
+
+### [🔌 Documentation](https://nextjstemplates.com/docs)
+
+### ⚡ Deploy Now
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fsolid-nextjs)
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/solid-nextjs)
+
+
+## Installation
+
+Here are the steps you need to follow to install the dependencies.
+
+1.Download and extract the template from **Next.js Templates.**
+
+2.**cd** into the template directory then run this command to install all the dependencies
+    
+```bash
+    npm install
 ```
-npm install --global gulp-cli
-```
+    
+or
+    
+```bash
+    yarn install
+ ```
 
-Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-#### Local setup
+You can start the project on the local server
+    
+```bash
+    npm run dev
+ ```
 
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+It’ll start the template on [localhost:3000](http://localhost:3000). 
 
-* Install dependencies
+The documentation includes all the guides you need for the integrations. 
 
-```
-npm install
-```
 
-* Run locally
+### Deploying on PaaS
 
-```
-npm run dev
-```
+If you are using a GitHub repo then you can go with free-of-cost and easy-to-use options like [Vercel](https://vercel.com/), or [Netlify](https://netlify.com/) they offer decent-free tiers for Next.js hosting.
 
-After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
+### 📄 License
+Solid Free is 100% free and open-source, feel free to use with your personal and commercial projects.
 
-#### Production Build
+### 💜 Support
+If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
 
-After finishing all the customization, you can create a production build by running this command.
-
-```
-npm run build
-```
-
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
-
-👉🏻 [visit documentation](https://docs.themefisher.com/orbitor/)
-
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the orbitor Template. Please Search [existing issues](https://github.com/themefisher/orbitor/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/orbitor/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
-
-<!-- licence -->
-## License
-
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/orbitor/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+### ✨ Browse and Download - Best Free [Next.js Templates](https://nextjstemplates.com/templates)
