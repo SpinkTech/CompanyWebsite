@@ -41,14 +41,14 @@ const Header = () => {
             <Image
               src="/images/logo/dark logo.png"
               alt="logo"
-              width={127.08}
+              width={119.03}
               height={30}
               className="hidden w-full dark:block"
             />
             <Image
               src="/images/logo/new logo.png"
               alt="logo"
-              width={127.08}
+              width={119.03}
               height={30}
               className="w-full dark:hidden"
             />
@@ -162,7 +162,7 @@ const Header = () => {
             </Link>
 
             <Link
-              href=""
+              href="/app/(site)/support/page.tsx"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Get an Estimated 🔥

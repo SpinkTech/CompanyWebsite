@@ -40,23 +40,23 @@ const Pricing = () => {
                 </span>
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Basic Plan
+                Small Pack
               </h4>
               <p>"Affordable pricing for small businesses, tailored solutions included."</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    1 time changes 
+                    300 GB Storage
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                   
+                    Unlimited Photos and Videos
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
                     Exclusive Support
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                   24/7 Customer Support
+                    Custom Branding Strategy
                   </li>
                 </ul>
               </div>
